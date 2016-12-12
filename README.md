@@ -3,6 +3,7 @@
 ## MENU
 - .NET
   - [**Threads**](#threads)
+  - [**NuGet and packages**](#nuget-and-packages)
 - JavaScript
   - [**complex tutorials**](#complex)
   - [**React**](#react)
@@ -21,6 +22,10 @@
 > ### Threads
 
 * [SynchronizationContext — когда MSDN подводит](https://habrahabr.ru/post/232169/)
+
+> ### NuGet and packages
+
+* [AngleSharp](https://anglesharp.github.io/)
 
 -
 
