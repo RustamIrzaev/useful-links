@@ -1,4 +1,4 @@
-# Useful Links (from dev to ...) :bowtie:
+# Useful Links (from dev to ...)
 
 ## MENU
 - .NET
@@ -8,7 +8,6 @@
   - [**React**](#react)
   - [**Electron**](#electron)
   - [**WebPack**](#webpack)
-  - *soon* ...
 - [**TypeScript**](#typescript)
 - [**CSS/SASS**](#styles)
 - [**Boilerplates**](#boilerplates)
@@ -19,23 +18,28 @@
 -
 
 ## .NET
-### Threads
+> ### Threads
+
 * [SynchronizationContext — когда MSDN подводит](https://habrahabr.ru/post/232169/)
 
 -
 
 ## JavaScript
-### Complex
+> ### Complex
+
 * [Creating RESTful APIs with NodeJS and MongoDB Tutorial, MEAN](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 
-### React
+> ### React
+
 * [ReactJs Tutorial, Kanban App](http://survivejs.com/react/introduction/) :muscle: 
 * *also look at [Boilerplates](#boilerplates)*
 
-### Electron
+> ### Electron
+
 * [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.7s58d56z5)
 
-### WebPack
+> ### WebPack
+
 * [Introduction to Webpack](http://survivejs.com/webpack/introduction/) :muscle: 
 * [Сборщик модулей Webpack. 3 части](http://monsterlessons.com/project/lessons/sborshchik-moduliei-webpack-chast-1)
 * [Скринкаст WEBPACK](http://learn.javascript.ru/screencast/webpack)
