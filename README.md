@@ -76,6 +76,7 @@
 
 ## Extensions
 * [Devtron, an Electron DevTools Extension](http://electron.atom.io/devtron/)
+* [Redirect Path (Chrome ext)](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
 
 -
 
